@@ -61,7 +61,7 @@ Feel free to help contribute to this project. I will add your username here if y
 
 ### Some notes for contributors
 
-This is only a 1 file project. It is `main.py`. The code is well commented.
+This is only a 1 file project. It is `main.py`. The code is well-commented.
 
 Please install these dependencies with pip:
 
@@ -69,12 +69,12 @@ Please install these dependencies with pip:
 - moviepy
 - pyinstaller *(Optional)*
 
-> **Note about `pytube` issue:** Sometimes when running the script, you will get a RegEx error. This has been an issue with pytube for a while and the best way that I have fixed it is to install pytube via the GitHub link:
+> **Note about the `pytube` issue:** Sometimes when running the script, you will get a RegEx error. This has been an issue with Pytube for a while and the best way that I have fixed it is to install Pytube via the GitHub link:
 > `pip install git+https://github.com/nficano/pytube.git`
 
 ### Building
 
-You can build this script using the following command on Mac and Linux (You will need to install Bash to use on Windows):
+You can build this script using the following command:
 
 ```sh
 bash build.sh
